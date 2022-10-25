@@ -12,3 +12,4 @@ writeFileSync(`./content/result-sync.txt`, `Here is the result: ${first},${secon
 writeFileSync(`./content/result-sync.txt`, `Here is the result: ${first},${second}`, {
     flag: 'a'
 })
+
